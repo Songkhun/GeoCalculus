@@ -23,3 +23,11 @@ jupyter lab Calculus_in_Geosciences.ipynb
 ```
 
 Then `Kernel → Restart & Run All`. Data sets are synthetic (generated in code) with realistic values, so every result can be reproduced.
+
+## Licence
+
+All material in this repository (notebooks, app, examples, explanations and quiz questions) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see [LICENSE](LICENSE). You may reuse and adapt it, including for your own course, with credit: *"GeoCalculus: Calculus in the Geosciences" by Songkhun Boonchaisuk, Mahidol University, CC BY 4.0*.
+
+เนื้อหาทั้งหมดใช้สัญญาอนุญาต [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.th) นำไปใช้และดัดแปลงได้ โดยระบุที่มา
+
+The app loads MathJax, Plotly and Google Fonts from public CDNs; they are not part of this repository and keep their own licences.
