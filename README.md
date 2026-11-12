@@ -26,7 +26,7 @@ Then `Kernel → Restart & Run All`. Data sets are synthetic (generated in code)
 
 ## Licence
 
-All material in this repository (notebooks, app, examples, explanations and quiz questions) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see [LICENSE](LICENSE). You may reuse and adapt it, including for your own course, with credit: *"GeoCalculus: Calculus in the Geosciences" by Songkhun Boonchaisuk, Mahidol University, CC BY 4.0*.
+Copyright © 2026 Songkhun Boonchaisuk, Mahidol University. All material in this repository (notebooks, app, examples, explanations and quiz questions) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see [LICENSE](LICENSE). You may reuse and adapt it, including for your own course, with credit: *"GeoCalculus: Calculus in the Geosciences" by Songkhun Boonchaisuk, Mahidol University, CC BY 4.0*.
 
 เนื้อหาทั้งหมดใช้สัญญาอนุญาต [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.th) นำไปใช้และดัดแปลงได้ โดยระบุที่มา
 
